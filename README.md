@@ -7,16 +7,18 @@
 
 
 How to run locally:
-1.Clone the repository
+ 
+ 1.Clone the repository
    git clone https://github.com/Anushka666666/youtube-api-fetcher.git
+   
    cd youtube-api-fetcher
 
-2️. Install dependencies
+ 2️. Install dependencies
     npm install
 
-3️. Create .env file
+ 3️. Create .env file
      YT_API_KEY=YOUR_GOOGLE_API_KEY
-
+     
 4. Run the server
     vercel --prod
 
