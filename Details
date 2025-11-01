@@ -1,6 +1,5 @@
-youtube-api-fetcher/
- ├─ index.html       (if you have UI)
- ├─ script.js        (main code)
- ├─ server.js        (if using API fetching on backend)
- ├─ .gitignore
- └─ README.md
+youtube-api-clone/
+ ├── api/
+ │   └── search.js
+ ├── .env
+ ├── package.json
