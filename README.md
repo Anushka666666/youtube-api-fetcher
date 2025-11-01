@@ -6,8 +6,3 @@
 - Deployed and running as a **Serverless Function** on Vercel
 
 
-youtube-api-http/
- ├── api/
- │   └── search.js
- ├── .env
- ├── package.json
